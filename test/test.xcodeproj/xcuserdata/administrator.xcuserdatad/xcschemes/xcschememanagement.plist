@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>taylor_hello_world.xcscheme</key>
+		<key>test.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,8 +12,21 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>taylor_hello_world.app</key>
-		<true/>
+		<key>C3E091531E5B8F6C0067C108</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>C3E091671E5B8F6C0067C108</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>C3E091721E5B8F6C0067C108</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 	</dict>
 </dict>
 </plist>

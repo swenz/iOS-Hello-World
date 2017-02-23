@@ -78,7 +78,7 @@ class HelloViewController: UIViewController {
             labelling it. This is similar to how we did it with the name field,
             but this uses a function instead of a variable: */
  
-        helloButton.setTitle("Say hhhhHello", for: .normal)
+        helloButton.setTitle("Say Hello", for: .normal)
         
         
         //SET UP THE LABEL******************************************************

@@ -1,15 +1,15 @@
 //
-//  testTests.swift
-//  testTests
+//  HelloWorldTests.swift
+//  HelloWorldTests
 //
-//  Created by administrator on 20/02/2017.
-//  Copyright © 2017 administrator. All rights reserved.
+//  Created by Simon Ng on 26/9/14.
+//  Copyright (c) 2014 AppCoda. All rights reserved.
 //
 
+import UIKit
 import XCTest
-@testable import test
 
-class testTests: XCTestCase {
+class HelloWorldTests: XCTestCase {
     
     override func setUp() {
         super.setUp()
@@ -23,12 +23,12 @@ class testTests: XCTestCase {
     
     func testExample() {
         // This is an example of a functional test case.
-        // Use XCTAssert and related functions to verify your tests produce the correct results.
+        XCTAssert(true, "Pass")
     }
     
     func testPerformanceExample() {
         // This is an example of a performance test case.
-        self.measure {
+        self.measureBlock() {
             // Put the code you want to measure the time of here.
         }
     }

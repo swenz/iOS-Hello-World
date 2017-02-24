@@ -1,9 +1,9 @@
 //
 //  AppDelegate.swift
-//  HelloDeveloper_iOS
+//  test
 //
-//  Created by Joe Durand on 9/27/16.
-//  Copyright © 2016 Cal Poly App Dev. All rights reserved.
+//  Created by Steffen Wenz on 24/02/2017.
+//  Copyright © 2017 Steffen Wenz. All rights reserved.
 //
 
 import UIKit
